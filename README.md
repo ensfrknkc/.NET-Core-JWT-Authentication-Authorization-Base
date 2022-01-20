@@ -5,6 +5,6 @@ You can login.
 In addition, the structure within the project is open to development and is suitable for the role mechanism.
 </p>
 <h3>Swagger</h3>
-<img src="~/Swagger.PNG" alt="swagger"/> 
+<img src="https://raw.githubusercontent.com/ensfrknkc/.NET-Core-JWT-Authentication-Authorization-Base/master/images/Swagger.PNG" alt="swagger"/> 
 </div>
 
